@@ -1,0 +1,74 @@
+{
+	"actors": [
+		{
+			"name": "John Doe",
+			"age": 26,
+			"gender": "Male",
+			"shirtSize": "XL",
+			"pantSize": "L",
+			"shoeSize": 13.5,
+			"isAvailable": true,
+			"notes": "Severely allergic to peanuts."
+		},
+		{
+			"name": "George Hamilton",
+			"age": 34,
+			"gender": "Male",
+			"shirtSize": "S",
+			"pantSize": "M",
+			"shoeSize": 9.0,
+			"isAvailable": false,
+			"notes": "Vegetarian"
+		},
+		{
+			"name": "Rebecca Johnson",
+			"age": 21,
+			"gender": "Non-binary",
+			"shirtSize": "S",
+			"pantSize": "S",
+			"shoeSize": 8.5,
+			"isAvailable": true,
+			"notes": "Limited mobility in left leg."
+		},
+		{
+			"name": "Mary Rose",
+			"age": 40,
+			"gender": "Female",
+			"shirtSize": "XL",
+			"pantSize": "XL",
+			"shoeSize": 7.0,
+			"isAvailable": true,
+			"notes": "Allergic to gluten."
+		},
+		{
+			"name": "Ron Williams",
+			"age": 34,
+			"gender": "Male",
+			"shirtSize": "S",
+			"pantSize": "M",
+			"shoeSize": 10.5,
+			"isAvailable": true,
+			"notes": ""
+		},
+		{
+			"name": "Wren Jacobsen",
+			"age": 32,
+			"gender": "Non-binary",
+			"shirtSize": "M",
+			"pantSize": "L",
+			"shoeSize": 9.0,
+			"isAvailable": false,
+			"notes": "Unavailable from January-August 2023"
+		},
+		{
+			"name": "Alex Nakamura",
+			"age": 20,
+			"gender": "Female",
+			"shirtSize": "M",
+			"pantSize": "M",
+			"shoeSize": 10,
+			"isAvailable": false,
+			"notes": ""
+		}
+	]
+}
