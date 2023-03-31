@@ -1,5 +1,5 @@
 # SimpleDataEditor_Example
-A PyQt application for viewing, editing, and exporting data parsed from JSON files using Model/View programming.
+A Python application for viewing, editing, and exporting data parsed from JSON files using Model/View programming.
 
 # Known bugs:
 GUI / render issue when using QComboBox: contents render simultaneously
