@@ -1,7 +1,7 @@
 # SimpleDataEditor_Example
-A simple application for viewing and editing data parsed from JSON files with the ability to export edited dat.
+An application for viewing, editing, and exporting data parsed from JSON files using a Model/Item View Architechture.
 
-# Known bugs: 
+# Known bugs:
 GUI / render issue when using QComboBox: contents render simultaneously
  
 Checkbox & "True" & "False" strings render simultaneously
