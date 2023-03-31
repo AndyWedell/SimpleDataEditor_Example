@@ -4,7 +4,7 @@ An application for viewing, editing, and exporting data parsed from JSON files u
 # Known bugs:
 GUI / render issue when using QComboBox: contents render simultaneously
  
-Checkbox & "True" & "False" strings render simultaneously
+QCheckbox and cell "True" & "False" strings render simultaneously
 
  
 # To be added in future releases:
